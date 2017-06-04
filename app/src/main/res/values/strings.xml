@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android_Graphics_Path</string>
+
+    <string-array name="list">
+        <item> Normal Path</item>
+        <item> Dash Path</item>
+        <item> Path Dash Effect</item>
+        <item> CornerPathEffectView</item>
+        <item> With Touch Listener</item>
+        <item> Drawing with Path</item>
+        <item> Converting canvas to bitmap</item>
+
+    </string-array>
+    <string name="title_activity_normal_path_acitivty">NormalPathAcitivty</string>
+
+</resources>
